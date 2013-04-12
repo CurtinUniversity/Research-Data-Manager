@@ -469,8 +469,8 @@ following code libraries
 | ----------------- | :-----: |
 | [Elmah](http://code.google.com/p/elmah/) | [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) |
 | [Elmah Mvc](http://code.google.com/p/elmah/wiki/MVC) | [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)  |
-| [Fluent Migrator](https://github.com/schambers/fluentmigrator) | [Apache License2.0](https://github.com/schambers/fluentmigrator/blob/master/LICENSE.txt) |
-| [Fluent Migrator Legacy MigratorDotNet](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet) | [Apache License2.0](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet/blob/master/LICENSE.txt) | |
+| [Fluent Migrator](https://github.com/schambers/fluentmigrator) | [Apache License 2.0](https://github.com/schambers/fluentmigrator/blob/master/LICENSE.txt) |
+| [Fluent Migrator Legacy MigratorDotNet](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet) | [Apache License 2.0](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet/blob/master/LICENSE.txt) | |
 | [Fluent Validation](http://fluentvalidation.codeplex.com/) | [Apache License 2.0](http://fluentvalidation.codeplex.com/license) |
 | [Log4Net](http://logging.apache.org/log4net/) | [Apache License 2.0](http://logging.apache.org/log4n) |
 | [MvcContrib](http://mvccontrib.codeplex.com/) | [Apache License 2.0](http://mvccontrib.codeplex.com/license) |
