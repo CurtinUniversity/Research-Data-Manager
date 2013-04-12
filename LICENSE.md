@@ -470,6 +470,7 @@ following code libraries
 | [Elmah](http://code.google.com/p/elmah/) | [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) |
 | [Elmah Mvc](http://code.google.com/p/elmah/wiki/MVC) | [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)  |
 | [Fluent Migrator](https://github.com/schambers/fluentmigrator) | [Apache License2.0](https://github.com/schambers/fluentmigrator/blob/master/LICENSE.txt) |
+| [Fluent Migrator Legacy MigratorDotNet](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet) | [Apache License2.0](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet/blob/master/LICENSE.txt) | |
 | [Fluent Validation](http://fluentvalidation.codeplex.com/) | [Apache License 2.0](http://fluentvalidation.codeplex.com/license) |
 | [Log4Net](http://logging.apache.org/log4net/) | [Apache License 2.0](http://logging.apache.org/log4n) |
 | [MvcContrib](http://mvccontrib.codeplex.com/) | [Apache License 2.0](http://mvccontrib.codeplex.com/license) |
@@ -484,14 +485,13 @@ following code libraries
 | [ValueInjector](http://valueinjecter.codeplex.com/) | [MIT License](http://valueinjecter.codeplex.com/license) |
 | [HttpSimulator](http://haacked.com/archive/2007/06/19/unit-tests-web-code-without-a-web-server-using-httpsimulator.aspx) | [MIT License](http://www.opensource.org/licenses/mit-license.php) |
 | [DynamicJson](http://dynamicjson.codeplex.com/) | [MS-PL](http://dynamicjson.codeplex.com/license) |
-| [Fluent Migrator Legacy MigratorDotNet](https://github.com/tgmayfield/flu) | Not Available |
 | [NServiceBus](http://nservicebus.com/) | [NServiceBus Basic License](http://nservicebus.com/EULA.aspx)
 | [NUnit](http://www.nunit.org/) | [NUnit License](http://www.nunit.org/index.php?p=license&r=2.6.2)|
 
 
 Code libraries licenses:
 
-[Elmah](http://code.google.com/p/elmah/), [Elmah Mvc](http://code.google.com/p/elmah/wiki/MVC), [Fluent Migrator](https://github.com/schambers/fluentmigrator), [Fluent Validation](http://fluentvalidation.codeplex.com/),
+[Elmah](http://code.google.com/p/elmah/), [Elmah Mvc](http://code.google.com/p/elmah/wiki/MVC), [Fluent Migrator](https://github.com/schambers/fluentmigrator), [Fluent Migrator Legacy MigratorDotNet](https://github.com/tgmayfield/fluentmigrator.legacy.migratordotnet), [Fluent Validation](http://fluentvalidation.codeplex.com/),
 [Log4Net](http://logging.apache.org/log4net/) and [MvcContrib](http://mvccontrib.codeplex.com/) applies [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
    Apache License
